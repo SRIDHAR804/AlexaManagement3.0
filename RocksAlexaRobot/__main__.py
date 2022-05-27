@@ -79,52 +79,52 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
- ──『[🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨 🇷𝐨𝐧𝐚𝐥𝐝𝐨](https://telegra.ph/file/367e6a2a23939de4f4499.jpg)』
+ ──『[✫𝆺𝅥𝐈𝚣፝֟֠͢𝚣ʏ፝֟֠͢ʏ𝐑𝆄✗𝐌ᴀɴᴀɢᴇᴍᴇɴᴛ😈⃝➳̶̶̶̶̶̶̶᭄](https://telegra.ph/file/367e6a2a23939de4f4499.jpg)』
 
 *ʜᴇʟʟᴏ {} !*
-✪ ɪ ᴀᴍ 🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨 🇷𝐨𝐧𝐚𝐥𝐝𝐨 sᴜᴘᴇʀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀs ʙᴜᴅᴅʏ 💫
+✪ ɪ ᴀᴍ ✫𝆺𝅥𝐈𝚣፝֟֠͢𝚣ʏ፝֟֠͢ʏ𝐑𝆄✗𝐌ᴀɴᴀɢᴇᴍᴇɴᴛ😈⃝➳̶̶̶̶̶̶̶᭄ sᴜᴘᴇʀ ᴀᴅᴠᴀɴᴄᴇᴅ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ ᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀs ʙᴜᴅᴅʏ 💫
 ────────────────────────
 × *Uptime:* `{}`
 × `{}` *users, across* `{}` *chats.*
 ────────────────────────
 ✪ ʜɪᴛ /help ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ ✌️.
 ────────────────────────
-✪ [OWNER](t.me/Suryaakumar) - [SUPPORT](t.me/mafia_kings_queens)
+✪ [OWNER](t.me/Messi_izzYYIR) - [SUPPORT](t.me/Suryaakumar)
 ────────────────────────
 ✪ ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
 PMSTART_CHAT = (
     "[ Get Busy Living Or Get Busy Dying!!!](https://telegra.ph/file/f821830759461370f68d9.jpg)",
-    "[I'm Dr Asad Ali Project](https://telegra.ph/file/85e4f39239fd84a27d138.jpg)",
-    "[Turn Your Wounds Into Wisdom 🔥](https://telegra.ph/file/35e730dea457c85cc367b.mp4)",
-    "[Hahahahaha I'm Alexa!!!!](https://telegra.ph/file/6f43301a3e43d20f7906a.jpg)", )
+    "[I'm IZZYYIR](https://telegra.ph/file/ed69743673752c8380957.jpg)",
+    "[Turn Your Wounds Into Wisdom 🔥](https://telegra.ph/file/690e60a04a67001592731.mp4)",
+    "[Hahahahaha I'm Izzyyir!!!!](https://telegra.ph/file/ed69743673752c8380957.jpg)", )
 
 buttons = [
     [
         InlineKeyboardButton(
-                            text="ᴀᴅᴅ CR7 ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
-                            url="t.me/Zaynmalik_gc_bot?startgroup=true"),
+                            text="ᴀᴅᴅ izzy ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ",
+                            url="t.me/Izzyyir_management_bot?startgroup=true"),
                     ],
                    [
-                       InlineKeyboardButton(text="💌 ᴋɪɴɢ", url="t.me/Suryaakumar"),
-                       InlineKeyboardButton(text="💌 ғᴇᴅ", url="t.me/mafiaking_fed"),
+                       InlineKeyboardButton(text="💌 Demon", url="t.me/Messi_izzYYIR"),
+                       InlineKeyboardButton(text="💌 Supporter", url="t.me/Suryaakumar"),
                      ],
                     [                  
                        InlineKeyboardButton(
-                             text="💌 Bestie",
-                             url=f"https://t.me/bestie_of_suryaa_parzi"),
+                             text="💌 Group",
+                             url=f"https://t.me/mafia_kings_queens"),
                        InlineKeyboardButton(
                              text="💌 ɴᴇᴛᴡᴏʀᴋ",
-                             url=f"https://t.me/mafia_kings_queens"),
+                             url=f"https://t.me/Tamil_Junctions"),
                         ],
                        [
-                           InlineKeyboardButton(text="ʟᴏᴠᴇ", url="t.me/Just_feelings_sk"
+                           InlineKeyboardButton(text="Small house", url="t.me/+z6j3Tts9JSlkNzE1"
          ),
     ],
 ]
 
 HELP_STRINGS = """
-Hey there, I'm *🇨𝐫𝐢𝐬𝐭𝐢𝐚𝐧𝐨 🇷𝐨𝐧𝐚𝐥𝐝𝐨*!
+Hey there, I'm *✫𝆺𝅥𝐈𝚣፝֟֠͢𝚣ʏ፝֟֠͢ʏ𝐑𝆄✗𝐌ᴀɴᴀɢᴇᴍᴇɴᴛ😈⃝➳̶̶̶̶̶̶̶᭄*!
 To make me functional, make sure that i have enough rights in your group.
 Helpful commands:
 - /start: Starts me! You've probably already used this.
