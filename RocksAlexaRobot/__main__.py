@@ -89,7 +89,7 @@ PM_START_TEXT = """
 ────────────────────────
 ✪ ʜɪᴛ /help ᴛᴏ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀ ʙᴜᴅᴅʏ ✌️.
 ────────────────────────
-✪ [OWNER](t.me/Messi_izzYYIR) - [SUPPORT](t.me/Suryaakumar)
+✪ [OWNER](t.me/Messi_izzYYIR) - [SUPPORTER](t.me/Suryaakumar)
 ────────────────────────
 ✪ ──『*ᴛʜᴀɴᴋs  ғᴏʀ  ᴜsɪɴɢ*』
 """
